@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bandit Silachai
 - 👀 I’m interested in Web and Mobile development.
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning TS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
